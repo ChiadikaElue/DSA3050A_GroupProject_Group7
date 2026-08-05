@@ -51,12 +51,91 @@ It provides over 40+ features , including temperature, wind, pressure, precipita
 - Summary_Regional_Averages table created
 ---
 ## Data model explanation
+A *star schema* data model was implemented to improve dashboard performance and simplify analysis.
+
+### Fact Table
+
+* Weather observations containing environmental measurements.
+
+### Dimension Tables
+
+* Date
+* Country
+* Location
+* Weather
+* PM2.5 Risk
+* Moon Phase
+* Regional Summary
+
+Relationships were created between the fact table and each dimension table to enable filtering, drill-down analysis and time intelligence calculations while minimizing data redundancy.
+
 
 ---
 ## DAX measures created
+The project includes several custom DAX measures, including:
+
+* Average Temperature
+* Average Humidity
+* Average UV Index
+* Total Rainfall
+* Rainfall per Location
+* Temperature Ranking
+* Rainfall Ranking
+* PM2.5 Ranking
+* PM2.5 Ratio
+* Visibility Ratio
+* Air Quality Status
+* Rainfall Status
+* Heat Alert Indicator
+* Selected Weather
+* Dynamic Dashboard Title
+
+These measures provide KPI calculations, rankings, ratios, dynamic reporting and business insights.
+
 
 ---
 ## Dashboard pages explained
+## 1. Executive Dashboard
+
+Provides an overview of key environmental indicators including:
+
+* Average Temperature
+* Rainfall
+* Humidity
+* Air Quality
+* UV Index
+* Heat Alerts
+
+---
+
+## 2. Air Quality Analysis
+
+Displays pollution trends using:
+
+* PM2.5
+* PM10
+* Carbon Monoxide
+* Air Quality Risk Categories
+* Pollution Rankings
+
+---
+
+## 3. Climate Trends
+
+Shows environmental trends over time including:
+
+* Temperature
+* Rainfall
+* Atmospheric Pressure
+* Humidity
+* Visibility
+
+---
+
+## 4. Regional Analysis
+
+Compares environmental indicators between countries and cities using interactive maps and charts.
+
 ---
 ## Key insights
 - There is Moderate Air Quality Risk because the Average PM2.5 rests at 19.50, with "Moderate" conditions consistently present in observations, this posing ongoing health concerns for sensitive populations.
