@@ -8,10 +8,12 @@
 
 | Member Name | Student ID |
 |--------------|------------|
-| Member 1 | XXXXXXXX |
-| Member 2 | XXXXXXXX |
-| Member 3 | XXXXXXXX |
-| Member 4 | XXXXXXXX |
+| Sean Nderitu | 669648 |
+| Chiadika Elue|670280 |
+| Nelisa Muthii | 670347 |
+| Nicole Sisoh | 669593 |
+| Nathan Onyancha| 670831|
+| Ted Korir| 670340|
 
 ---
 
@@ -159,6 +161,12 @@ Compares environmental indicators between countries and cities using interactive
 ---
 
 ## Contribution summary for each member:
+1. Sean: Business Problem & Power Query Data Prep
+2. ⁠Nathan: Data Modeling
+3. ⁠Chiadika: DAX Measures
+4. ⁠Nelisa: Visualizations & Dashboard Design
+5. Nicole: Insights & Storytelling
+6. Ted: Documentation
 
 ---
 
