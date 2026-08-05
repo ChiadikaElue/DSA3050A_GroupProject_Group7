@@ -1,0 +1,201 @@
+country,location,Latitude,Longitude,timezone,last_updated_epoch,last_updated,temperature_celsius,weather_condition,uv_index,air_quality_Carbon_Monoxide,air_quality_Ozone,air_quality_Nitrogen_dioxide,air_quality_Sulphur_dioxide,air_quality_PM2.5,air_quality_PM10,air_quality_gb-defra-index,air_quality_us-epa-index,visibility_km,humidity,precip_in,precip_mm,pressure_in,pressure_mb,wind_kph,gust_kph,moon_phase,PM2.5 Risk Level,Year_updated,Month_updated,Year quater updated,Day_updated
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1715849100,5/16/2024,26.6,Partly Cloudy,7,277,103,1.1,0.2,8.4,26.6,1,1,10,24,0,0,29.89,1012,13.3,15.3,Waxing Gibbous,Normal,2024,May,2,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1715868000,5/16/2024,22,Patchy rain nearby,5,1495.4,60.1,19.4,0.6,9.4,18.9,1,1,10,41,0,0.03,29.93,1014,7.2,8.5,Waxing Gibbous,Normal,2024,May,2,Thursday
+Nicaragua,Managua,12.15,-86.27,America/Managua,1715868900,5/16/2024,28,Overcast,7,467.3,10.6,10.1,6.5,12.5,17.7,2,1,9,84,0,0,29.83,1010,6.8,7.1,Waxing Gibbous,Normal,2024,May,2,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1715961600,5/17/2024,15,Patchy rain nearby,1,854.5,70.8,9.4,0.6,8.3,18.1,1,1,9,75,0.03,0.69,30.02,1017,5.4,7.6,Waxing Gibbous,Normal,2024,May,2,Friday
+Saint Kitts and Nevis,Basseterre,17.3,-62.72,America/St_Kitts,1715962500,5/17/2024,31,Partly Cloudy,6,201.9,39,0.6,0.6,1.4,3.4,1,1,10,79,0,0.01,30,1016,24.1,26.5,Waxing Gibbous,Normal,2024,May,2,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716042600,5/18/2024,19.5,Clear,1,794.4,76.5,6.2,0.5,7.5,15.3,1,1,10,46,0,0,29.82,1010,3.6,10.8,Waxing Gibbous,Normal,2024,May,2,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716127200,5/19/2024,16.9,Patchy rain nearby,4,1174.9,87.3,14.9,0.6,4.8,10.1,1,1,9,52,0.01,0.17,29.82,1010,6.5,8.6,Waxing Gibbous,Normal,2024,May,2,Sunday
+Honduras,Tegucigalpa,14.1,-87.22,America/Tegucigalpa,1716128100,5/19/2024,25,Overcast,7,587.5,26.1,7.8,1.3,17.1,24.4,2,2,8,69,0,0,30.12,1020,3.6,6.6,Waxing Gibbous,Normal,2024,May,2,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716215400,5/20/2024,14.1,Patchy rain nearby,1,1215,57.2,15.6,0.4,5.8,13.1,1,1,9,77,0.03,0.72,30.04,1017,4.3,5,Waxing Gibbous,Normal,2024,May,2,Monday
+Albania,Tirana,41.33,19.82,Europe/Tirane,1716216300,5/20/2024,29,Partly Cloudy,7,237,67.2,5.6,0.3,15.7,34.2,2,2,10,58,0,0,29.83,1010,13,20.2,Waxing Gibbous,Normal,2024,May,2,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716302700,5/21/2024,21.8,Clear,1,2723.7,67.2,31.5,0.8,10.2,18.2,1,1,10,30,0,0,29.8,1009,13,25.9,Waxing Gibbous,Normal,2024,May,2,Tuesday
+Andorra,Andorra La Vella,42.5,1.52,Europe/Andorra,1716301800,5/21/2024,10.2,Light rain shower,3,146.9,71.5,0.9,0.1,0.5,0.7,1,1,10,70,0.04,1.09,29.9,1013,6.5,10,Waxing Gibbous,Normal,2024,May,2,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716387300,5/22/2024,19.9,Sunny,5,1522.1,108.7,17.7,0.5,9.8,18.8,1,1,10,40,0,0,29.81,1010,7.6,11.6,Waxing Gibbous,Normal,2024,May,2,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716472800,5/23/2024,23.8,Partly Cloudy,6,1401.9,81.5,17.3,0.7,11.6,31.3,1,1,10,31,0,0,29.72,1006,10.4,15.2,Full Moon,Normal,2024,May,2,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716561000,5/24/2024,18.5,Patchy rain nearby,1,1976,50.1,24.3,1,13,25.3,2,1,9,58,0.01,0.24,29.87,1012,24.1,27.8,Waning Gibbous,Normal,2024,May,2,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716645600,5/25/2024,22.5,Sunny,6,1642.2,87.3,18,0.7,13.3,32,2,1,10,32,0,0,29.76,1008,16.9,23.9,Waning Gibbous,Normal,2024,May,2,Saturday
+Papua New Guinea,Port Moresby,-9.46,147.19,Pacific/Port_Moresby,1716646500,5/26/2024,27,Partly Cloudy,1,227,12.2,8.2,8,2.6,3.2,1,1,10,84,0.01,0.13,29.83,1010,9,22.1,Waning Gibbous,Normal,2024,May,2,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716732000,5/26/2024,21.5,Sunny,6,1028.1,84.4,10.5,0.4,3.9,8.4,1,1,10,28,0,0,29.79,1009,10.4,12.3,Waning Gibbous,Normal,2024,May,2,Sunday
+Kazakhstan,Astana,51.18,71.43,Asia/Almaty,1716732900,5/26/2024,12,Partly Cloudy,4,193.6,78,2.8,7.2,1,1.1,1,1,10,82,0,0,29.8,1009,19.1,30,Waning Gibbous,Normal,2024,May,2,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716820200,5/27/2024,19.6,Clear,1,1949.3,64.4,23.3,0.8,6.7,13.8,1,1,10,26,0,0,29.71,1006,9.4,17.7,Waning Gibbous,Normal,2024,May,2,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1716906600,5/28/2024,19.5,Clear,1,1348.5,62.9,16.1,0.5,6.8,14.9,1,1,10,27,0,0,29.73,1007,20.5,28.6,Waning Gibbous,Normal,2024,May,2,Tuesday
+Rwanda,Kigali,-1.95,30.06,Africa/Kigali,1716907500,5/28/2024,26,Partly Cloudy,6,270.4,41.1,0.5,0.8,5.2,7.3,1,1,10,51,0.01,0.34,30.12,1020,6.8,7.5,Waning Gibbous,Normal,2024,May,2,Tuesday
+Albania,Tirana,41.33,19.82,Europe/Tirane,1716991200,5/29/2024,25,Moderate or heavy rain with thunder,5,185.3,98.7,1.7,0.3,2.2,2.5,1,1,10,57,0.01,0.13,29.85,1011,15.1,22.3,Waning Gibbous,Normal,2024,May,2,Wednesday
+Qatar,Doha,25.29,51.53,Asia/Qatar,1716992100,5/29/2024,42,Sunny,9,243.7,147.3,11.8,9.4,26.4,77.4,3,2,10,11,0,0,29.53,1000,25.9,55.1,Waning Gibbous,Normal,2024,May,2,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717076700,5/30/2024,21.7,Sunny,6,1815.8,76.5,20.4,0.6,5.8,11.7,1,1,10,21,0,0,29.77,1008,11.2,14.5,Last Quarter,Normal,2024,May,2,Thursday
+Montenegro,Podgorica,42.44,19.26,Europe/Podgorica,1717077600,5/30/2024,25,Partly Cloudy,5,176.9,58.7,1.5,0.7,1.7,1.9,1,1,10,51,0.03,0.68,29.8,1009,15.1,22.3,Last Quarter,Normal,2024,May,2,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717164900,5/31/2024,21.3,Sunny,6,1388.6,107.3,15.3,0.5,3.5,7.3,1,1,10,17,0,0,29.79,1009,14,19.3,Waning Crescent,Normal,2024,May,2,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717251300,6/1/2024,22.5,Sunny,6,1922.6,120.2,19.9,0.5,7.1,10.4,1,1,10,17,0,0,29.78,1009,18.7,30.8,Waning Crescent,Normal,2024,June,2,Saturday
+Italy,Rome,41.9,12.48,Europe/Rome,1717252200,6/1/2024,25,Sunny,6,186.9,103,2.5,0.5,2.8,6.2,1,1,10,30,0,0,29.94,1014,19.1,26.3,Waning Crescent,Normal,2024,June,2,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717336800,6/2/2024,26.5,Sunny,7,1762.4,120.2,18.3,0.5,9.9,13.7,1,1,10,13,0,0,29.71,1006,10.8,16.9,Waning Crescent,Normal,2024,June,2,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717424100,6/3/2024,26.1,Sunny,7,1401.9,90.1,15.9,0.6,8.6,21.7,1,1,10,16,0,0,29.73,1007,20.5,25.6,Waning Crescent,Normal,2024,June,2,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717510500,6/4/2024,24.3,Sunny,6,1161.6,83.7,13.4,0.5,6,15.8,1,1,10,24,0,0,29.69,1005,18.4,21.1,Waning Crescent,Normal,2024,June,2,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717596900,6/5/2024,19,Patchy rain nearby,4,2563.5,78.7,30.2,0.7,7,14,1,1,10,40,0,0.01,29.81,1010,7.6,8.7,Waning Crescent,Normal,2024,June,2,Wednesday
+Argentina,Buenos Aires,-34.59,-58.67,America/Argentina/Buenos_Aires,1717596000,6/5/2024,13,Sunny,5,347.1,12,7.7,2.7,2.6,4.8,1,1,10,88,0,0,30.09,1019,13,14.9,Waning Crescent,Normal,2024,June,2,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717682400,6/6/2024,18,Patchy rain nearby,4,1815.8,67.2,23.7,0.5,3.9,8.2,1,1,10,42,0,0.05,29.9,1013,16.9,19.5,New Moon,Normal,2024,June,2,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717768800,6/7/2024,17.4,Sunny,5,1815.8,89.4,21.4,0.6,5.2,10.5,1,1,10,43,0,0,29.84,1011,14,16.2,Waxing Crescent,Normal,2024,June,2,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717856100,6/8/2024,24.1,Sunny,6,1228.3,68,15.4,0.4,4.1,7.7,1,1,10,20,0,0,29.7,1006,7.2,8.3,Waxing Crescent,Normal,2024,June,2,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1717942500,6/9/2024,24.4,Sunny,6,1361.9,83,16.1,0.4,4.2,8.3,1,1,10,21,0,0,29.74,1007,15.1,17.4,Waxing Crescent,Normal,2024,June,2,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718028900,6/10/2024,25.3,Sunny,7,1348.5,87.3,14.7,0.4,7.4,15.5,1,1,10,20,0,0,29.75,1008,18,22,Waxing Crescent,Normal,2024,June,2,Monday
+United States of America,Washington Harbor,48.08,-123.04,America/Los_Angeles,1718029800,6/10/2024,11,Partly Cloudy,4,173.6,74.4,1.3,1.2,3,9,1,1,16,80,0,0,30.17,1022,13,20.2,Waxing Crescent,Normal,2024,June,2,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718114400,6/11/2024,26.8,Sunny,7,1455.3,82.3,16.3,0.5,5.9,11.6,1,1,10,18,0,0,29.71,1006,20.2,24.2,Waxing Crescent,Normal,2024,June,2,Tuesday
+Qatar,Doha,25.29,51.53,Asia/Qatar,1718115300,6/11/2024,39.4,Sunny,9,383.9,131.6,101.5,66.8,44.8,111.2,5,3,8,51,0,0,29.56,1001,11.2,38.7,Waxing Crescent,High Risk,2024,June,2,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718201700,6/12/2024,26.6,Patchy rain nearby,6,2162.9,80.1,26.7,0.7,8.6,15.3,1,1,10,22,0,0.01,29.7,1006,13,14.9,Waxing Crescent,Normal,2024,June,2,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718287200,6/13/2024,27.7,Sunny,7,1922.6,81.5,23.7,0.8,11.3,24,1,1,10,19,0,0,29.6,1003,20.5,24.9,Waxing Crescent,Normal,2024,June,2,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718373600,6/14/2024,21,Sunny,6,1695.6,69.4,21.9,0.7,7.4,15.8,1,1,10,40,0,0,29.79,1009,6.1,7.2,First Quarter,Normal,2024,June,2,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718460000,6/15/2024,22.4,Partly Cloudy,6,841.1,98.7,9.4,0.5,7.6,16.8,1,1,10,38,0,0,29.78,1009,9.4,10.8,Waxing Gibbous,Normal,2024,June,2,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718545500,6/16/2024,26.3,Partly Cloudy,7,1028.1,76.5,12.7,0.5,8.4,17.8,1,1,10,27,0,0,29.7,1006,17.6,20.3,Waxing Gibbous,Normal,2024,June,2,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718632800,6/17/2024,27,Sunny,7,1442,93,16.3,0.7,9.5,18.4,1,1,10,27,0,0,29.7,1006,11.5,13.2,Waxing Gibbous,Normal,2024,June,2,Monday
+Vietnam,Hanoi,21.03,105.85,Asia/Bangkok,1718633700,6/17/2024,26.2,Patchy light rain with thunder,1,1188.3,22,59.6,43.9,44,56.5,5,3,10,94,0.04,1.09,29.56,1001,13,17.7,Waxing Gibbous,High Risk,2024,June,2,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718718300,6/18/2024,26.8,Sunny,7,754.4,90.8,7.8,0.3,5.9,14.6,1,1,10,19,0,0,29.6,1002,21.6,24.8,Waxing Gibbous,Normal,2024,June,2,Tuesday
+Bulgaria,Sofia,42.68,23.32,Europe/Sofia,1718719200,6/18/2024,31.2,Partly Cloudy,7,165.2,94.4,0.7,0.8,5.7,6.5,1,1,10,33,0,0,30.09,1019,3.6,14,Waxing Gibbous,Normal,2024,June,2,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718804700,6/19/2024,26.3,Sunny,7,881.2,97.3,9.4,0.4,5.2,12.3,1,1,10,18,0,0,29.54,1001,31,35.6,Waxing Gibbous,Normal,2024,June,2,Wednesday
+Russia,Moscow,55.75,37.62,Europe/Moscow,1718805600,6/19/2024,25.5,Partly Cloudy,7,223.6,62.2,19.5,13.8,2.5,3.7,1,1,10,45,0,0,29.86,1011,14,18.9,Waxing Gibbous,Normal,2024,June,2,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718891100,6/20/2024,22.4,Patchy light rain,5,2803.8,68,34.3,0.8,5.9,10.3,1,1,9,40,0.07,1.86,29.63,1004,27,31.1,Waxing Gibbous,Normal,2024,June,2,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1718976600,6/21/2024,23.7,Sunny,6,2697,65.8,30.5,0.8,6.6,9.2,1,1,10,31,0,0,29.61,1003,8.6,9.9,Full Moon,Normal,2024,June,2,Friday
+Madagascar,Antananarivo,-18.92,47.52,Indian/Antananarivo,1718977500,6/21/2024,19.1,Partly Cloudy,6,413.9,58.7,1.4,2.3,4.8,11.2,1,1,10,60,0,0,30.24,1024,20.2,20.9,Full Moon,Normal,2024,June,2,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719063900,6/22/2024,25.9,Partly Cloudy,7,1602.2,55.8,19.7,0.4,4.8,9.9,1,1,10,27,0,0,29.61,1003,16.2,18.6,Full Moon,Normal,2024,June,2,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719150300,6/23/2024,27,Sunny,7,1789.1,68.7,20.1,0.5,4.8,9,1,1,10,19,0,0,29.64,1004,25.9,29.8,Waning Gibbous,Normal,2024,June,2,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719236700,6/24/2024,26.5,Sunny,7,1255,80.1,14.4,0.4,5.2,13.1,1,1,10,27,0,0,29.61,1003,22,25.3,Waning Gibbous,Normal,2024,June,2,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719321300,6/25/2024,27.2,Patchy light drizzle,6,1121.5,104.4,10.2,0.4,6.8,16.5,1,1,5,28,0.01,0.25,29.58,1002,17.6,20.3,Waning Gibbous,Normal,2024,June,2,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719408600,6/26/2024,30.6,Sunny,8,2296.5,83,27.1,0.7,8.1,16.6,1,1,10,19,0,0,29.52,1000,22.3,25.7,Waning Gibbous,Normal,2024,June,2,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719494100,6/27/2024,32.8,Sunny,8,440.6,117.3,3.5,0.3,10.1,33,1,1,10,14,0,0,29.54,1000,14.4,16.6,Waning Gibbous,Normal,2024,June,2,Thursday
+Austria,Vienna,48.2,16.37,Europe/Vienna,1719493200,6/27/2024,27.1,Partly Cloudy,6,186.9,75.1,2.5,0.8,1.3,2.1,1,1,10,54,0.01,0.16,29.85,1011,3.6,10.8,Waning Gibbous,Normal,2024,June,2,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719580500,6/28/2024,30.6,Sunny,8,467.3,104.4,3.7,0.3,8.3,24.9,1,1,10,21,0,0,29.54,1000,11.9,13.7,Last Quarter,Normal,2024,June,2,Friday
+Austria,Vienna,48.2,16.37,Europe/Vienna,1719579600,6/28/2024,26,Moderate rain,8,171.9,113,1.3,0.4,2.1,2.4,1,1,10,54,0,0,30,1016,24.1,31.3,Last Quarter,Normal,2024,June,2,Friday
+Albania,Tirana,41.33,19.82,Europe/Tirane,1719665100,6/29/2024,34.3,Sunny,8,168.6,110.2,1.6,0.5,7.2,13.4,1,1,10,39,0,0,29.91,1013,16.9,24.1,Waning Crescent,Normal,2024,June,2,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719754200,6/30/2024,29.6,Sunny,7,694.3,104.4,7,0.6,12.8,38,2,1,10,20,0,0,29.52,1000,21.2,24.4,Waning Crescent,Normal,2024,June,2,Sunday
+Bulgaria,Bogot,43.32,24.7,Europe/Sofia,1719753300,6/30/2024,34,Sunny,8,163.6,105.9,0.4,0.9,4.7,4.9,1,1,10,23,0,0,29.94,1014,3.6,15.3,Waning Crescent,Normal,2024,June,2,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719839700,7/1/2024,29.9,Sunny,7,534.1,108.7,4.4,0.5,12.7,37.4,2,1,10,18,0,0,29.45,997,32.8,37.7,Waning Crescent,Normal,2024,July,3,Monday
+Belgium,Brussels,50.83,4.33,Europe/Brussels,1719838800,7/1/2024,18.1,Partly Cloudy,4,165.2,72.2,2.7,1.4,0.6,0.9,1,1,10,64,0,0.07,30.03,1017,15.1,19.2,Waning Crescent,Normal,2024,July,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1719926100,7/2/2024,29.4,Sunny,7,1134.9,120.2,10.2,0.5,11.6,34.4,1,1,10,16,0,0,29.45,997,17.6,20.3,Waning Crescent,Normal,2024,July,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720011600,7/3/2024,33.5,Sunny,8,961.3,150.2,8.1,0.5,11.1,22.4,1,1,10,8,0,0,29.44,997,16.6,19,Waning Crescent,Normal,2024,July,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720098000,7/4/2024,34.2,Sunny,8,514,113,4.5,0.5,18.5,51.8,2,2,10,12,0,0,29.47,998,33.8,38.9,Waning Crescent,Normal,2024,July,3,Thursday
+Mexico,Mexico City,19.43,-99.13,America/Mexico_City,1720098900,7/4/2024,14.3,Partly Cloudy,1,867.8,0,31.9,19.3,31.6,39.3,3,2,6,94,0,0.07,30.34,1027,11.2,18.4,Waning Crescent,Normal,2024,July,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720183500,7/5/2024,29.5,Sunny,7,293.7,111.6,1.8,0.3,10.1,36,1,1,10,13,0,0,29.46,998,40.3,46.4,New Moon,Normal,2024,July,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720271700,7/6/2024,27.7,Sunny,7,337.1,117.3,2.5,0.2,4,13.1,1,1,10,16,0,0,29.42,996,30.2,34.8,Waxing Crescent,Normal,2024,July,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720357200,7/7/2024,30.1,Sunny,8,794.4,125.9,6.5,0.3,5.9,15.3,1,1,10,11,0,0,29.49,999,21.2,24.4,Waxing Crescent,Normal,2024,July,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720443600,7/8/2024,31.5,Sunny,8,847.8,121.6,6.9,0.3,5.6,12.1,1,1,10,12,0,0,29.56,1001,15.8,18.2,Waxing Crescent,Normal,2024,July,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720529100,7/9/2024,32.1,Sunny,8,794.4,113,6.5,0.3,8.4,21,1,1,10,15,0,0,29.56,1001,22,25.3,Waxing Crescent,Normal,2024,July,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720616400,7/10/2024,31.5,Sunny,8,440.6,113,3.3,0.3,8,21.8,1,1,10,18,0,0,29.59,1002,26.6,30.6,Waxing Crescent,Normal,2024,July,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720701900,7/11/2024,30,Sunny,8,520.7,104.4,4.1,0.2,5.2,14.8,1,1,10,14,0,0,29.51,999,28.8,33.1,Waxing Crescent,Normal,2024,July,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720788300,7/12/2024,30.1,Sunny,8,600.8,117.3,5.1,0.2,4.1,10.8,1,1,10,14,0,0,29.39,995,28.8,33.1,Waxing Crescent,Normal,2024,July,3,Friday
+Barbados,Bridgetown,13.1,-59.62,America/Barbados,1720789200,7/12/2024,29.3,Partly Cloudy,6,185.3,27.2,3,1.5,1.9,3.5,1,1,10,79,0.06,1.53,29.97,1015,33.1,37.8,Waxing Crescent,Normal,2024,July,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720875600,7/13/2024,28,Sunny,7,721,114.4,5.1,0.3,7.5,13.9,1,1,10,24,0,0,29.44,997,11.5,13.2,First Quarter,Normal,2024,July,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1720962900,7/14/2024,29.9,Sunny,7,487.3,88.7,3.9,0.2,5,13.7,1,1,10,21,0,0,29.44,997,15.1,17.4,Waxing Gibbous,Normal,2024,July,3,Sunday
+Antigua and Barbuda,Saint John's,17.12,-61.85,America/Antigua,1720962000,7/14/2024,28.2,Partly Cloudy,6,188.6,26.8,0.4,0.4,3.6,10.2,1,1,10,79,0,0.01,30,1016,20.2,35.5,Waxing Gibbous,Normal,2024,July,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721048400,7/15/2024,26.7,Sunny,7,894.6,117.3,6.2,0.3,9.3,20.8,1,1,10,39,0,0,29.64,1004,13,15,Waxing Gibbous,Normal,2024,July,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721133900,7/16/2024,30.5,Patchy rain nearby,7,988,121.6,7.5,0.3,10.9,26.2,1,1,10,28,0,0.01,29.56,1001,16.6,19,Waxing Gibbous,Normal,2024,July,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721220300,7/17/2024,27.6,Sunny,7,527.4,130.2,2.9,0.2,10.2,24.3,1,1,10,40,0,0,29.58,1002,22.7,26.1,Waxing Gibbous,Normal,2024,July,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721306700,7/18/2024,30.6,Sunny,8,560.8,128.8,3.9,0.3,10.8,28.2,1,1,10,20,0,0,29.5,999,23.4,26.9,Waxing Gibbous,Normal,2024,July,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721392200,7/19/2024,30,Partly Cloudy,8,660.9,128.8,4.2,0.3,11.6,28,1,1,10,22,0,0,29.48,998,16.9,19.5,Waxing Gibbous,Normal,2024,July,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721479500,7/20/2024,30.4,Sunny,8,514,110.2,3.7,0.2,7.6,20.3,1,1,10,22,0,0,29.54,1000,19.8,22.8,Waxing Gibbous,Normal,2024,July,3,Saturday
+Namibia,Windhoek,-22.57,17.08,Africa/Windhoek,1721565900,7/21/2024,7.1,Clear,1,243.7,65.1,2.5,5.4,5.8,10.5,1,1,10,18,0,0,30.12,1020,7.6,15.9,Full Moon,Normal,2024,July,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721737800,7/23/2024,31.7,Partly Cloudy,8,674.3,98.7,6.1,0.3,9.6,28.6,1,1,10,20,0,0,29.43,997,10.8,12.4,Waning Gibbous,Normal,2024,July,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721825100,7/24/2024,32.7,Sunny,8,600.8,121.6,4.6,0.3,7.6,19.1,1,1,10,14,0,0,29.29,992,25.9,29.8,Waning Gibbous,Normal,2024,July,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721909700,7/25/2024,33.3,Sunny,8,360.5,131.6,1.5,0.2,7,16,1,1,10,14,0,0,29.33,993,8.3,9.5,Waning Gibbous,Normal,2024,July,3,Thursday
+Panama,Panama City,8.97,-79.53,America/Panama,1721910600,7/25/2024,25.3,Patchy rain nearby,6,400.5,0.9,8.5,11.1,4.9,6.4,1,1,10,91,0,0.13,29.89,1012,3.6,4.4,Waning Gibbous,Normal,2024,July,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1721997000,7/26/2024,32.7,Sunny,8,814.4,114.4,7.4,0.3,5.8,14.8,1,1,10,12,0,0,29.43,997,27.4,31.5,Waning Gibbous,Normal,2024,July,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722083400,7/27/2024,34.7,Sunny,8,841.1,137.3,6.9,0.4,9.5,19.5,1,1,10,10,0,0,29.47,998,9.4,10.8,Waning Gibbous,Normal,2024,July,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722169800,7/28/2024,34.8,Sunny,8,413.9,121.6,2.8,0.2,7.4,20,1,1,10,12,0,0,29.44,997,26.6,30.6,Last Quarter,Normal,2024,July,3,Sunday
+Azerbaijan,Baku,40.4,49.88,Asia/Baku,1722170700,7/28/2024,22.8,Patchy rain nearby,5,181.9,73,2.3,0.5,3.3,7.1,1,1,10,73,0,0.08,29.92,1013,59,70.7,Last Quarter,Normal,2024,July,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722255300,7/29/2024,35.8,Sunny,9,410.6,134.5,2,0.3,9.3,20.4,1,1,10,11,0,0,29.41,996,8.3,9.5,Waning Crescent,Normal,2024,July,3,Monday
+Albania,Tirana,41.33,19.82,Europe/Tirane,1722341700,7/30/2024,37.4,Sunny,9,205.3,118.7,1,1.9,5.3,5.6,1,1,10,14,0,0,29.78,1009,26.6,30.6,Waning Crescent,Normal,2024,July,3,Tuesday
+Rwanda,Kigali,-1.95,30.06,Africa/Kigali,1722342600,7/30/2024,30.6,Sunny,9,460.6,95.8,0.8,0.8,19.7,22.2,2,2,10,19,0,0,29.78,1008,7.9,9.1,Waning Crescent,Normal,2024,July,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722428100,7/31/2024,36.1,Sunny,9,454,121.6,1.9,0.3,15.9,46.7,2,2,10,13,0,0,29.41,996,10.1,11.6,Waning Crescent,Normal,2024,July,3,Wednesday
+Yemen,Sanaa,15.35,44.21,Asia/Aden,1722429000,7/31/2024,22.3,Patchy rain nearby,5,183.6,81.5,2.2,5.4,19.4,68.6,2,2,9,45,0.01,0.26,29.82,1010,15.1,17.4,Waning Crescent,Normal,2024,July,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722514500,8/1/2024,34.6,Sunny,8,283.7,117.3,1.3,0.3,9.4,27.9,1,1,10,12,0,0,29.4,996,28.8,33.1,Waning Crescent,Normal,2024,August,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722600900,8/2/2024,33.1,Sunny,8,330.5,117.3,1.5,0.2,9.3,29.6,1,1,10,11,0,0,29.41,996,19.8,22.8,Waning Crescent,Normal,2024,August,3,Friday
+Estonia,Tallinn,59.43,24.73,Europe/Tallinn,1722601800,8/2/2024,19.8,Patchy rain nearby,4,190.3,50.1,0.6,0.6,0.7,0.8,1,1,10,68,0,0.03,29.67,1005,20.5,25.4,Waning Crescent,Normal,2024,August,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722688200,8/3/2024,31.7,Sunny,8,1054.8,110.2,8.4,0.3,9.3,19.7,1,1,10,25,0,0,29.46,998,24.5,28.2,Waning Crescent,Normal,2024,August,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722774600,8/4/2024,28.5,Sunny,7,1121.5,114.4,8.4,0.3,9.1,16.9,1,1,10,42,0,0,29.56,1001,18.7,21.5,New Moon,Normal,2024,August,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722861000,8/5/2024,32.4,Sunny,8,1228.3,121.6,11.1,0.5,9.1,18.8,1,1,10,22,0,0,29.49,999,21.2,24.4,Waxing Crescent,Normal,2024,August,3,Monday
+Albania,Tirana,41.33,19.82,Europe/Tirane,1722860100,8/5/2024,33.9,Sunny,8,230.3,107.3,2.4,1,5.2,5.7,1,1,10,22,0,0,29.76,1008,25.2,29,Waxing Crescent,Normal,2024,August,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1722946500,8/6/2024,33.7,Sunny,8,440.6,131.6,1.5,0.4,12.3,30.9,2,1,10,10,0,0,29.44,997,11.2,12.9,Waxing Crescent,Normal,2024,August,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723032000,8/7/2024,33.9,Sunny,8,447.3,147.3,1.8,0.3,8.2,16.5,1,1,10,7,0,0,29.46,997,8.3,9.5,Waxing Crescent,Normal,2024,August,3,Wednesday
+Papua New Guinea,Port Moresby,-9.46,147.19,Pacific/Port_Moresby,1723032900,8/7/2024,24,Light rain shower,1,208.6,52.9,2.4,2.1,3.9,17.6,1,1,10,93,0.02,0.46,29.94,1014,21.2,32.5,Waxing Crescent,Normal,2024,August,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723119300,8/8/2024,34.7,Sunny,8,447.3,151.6,1.9,0.2,8,14.6,1,1,10,9,0,0,29.49,999,15.5,17.8,Waxing Crescent,Normal,2024,August,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723206600,8/9/2024,32.3,Sunny,8,620.8,125.9,5.4,0.3,6.1,13.6,1,1,10,8,0,0,29.59,1002,29.2,33.6,Waxing Crescent,Normal,2024,August,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723293000,8/10/2024,32.2,Sunny,8,363.8,110.2,2.8,0.4,9.7,26.1,1,1,10,12,0,0,29.55,1001,33.1,38.1,Waxing Crescent,Normal,2024,August,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723378500,8/11/2024,31.9,Sunny,8,270.4,110.2,1,0.3,9.5,26.8,1,1,10,14,0,0,29.51,999,22.3,25.7,Waxing Crescent,Normal,2024,August,3,Sunday
+Mongolia,Ulaanbaatar,47.92,106.92,Asia/Ulaanbaatar,1723379400,8/11/2024,14.9,Sunny,4,217,14.1,13.2,9.3,4.7,5.6,1,1,10,78,0,0,29.81,1009,8.3,17.4,Waxing Crescent,Normal,2024,August,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723465800,8/12/2024,32.7,Sunny,8,781.1,131.6,6.1,0.3,9.6,21.3,1,1,10,11,0,0,29.55,1001,10.1,11.6,First Quarter,Normal,2024,August,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723552200,8/13/2024,33.4,Sunny,8,948,141.6,7.8,0.5,12,22.3,2,1,10,14,0,0,29.57,1001,16.9,19.5,Waxing Gibbous,Normal,2024,August,3,Tuesday
+Democratic Republic of Congo,Kinshasa,-4.3,15.3,Africa/Brazzaville,1723553100,8/13/2024,35.1,Sunny,10,634.2,70.8,1.2,0.5,4.2,11.5,1,1,10,28,0,0,29.83,1010,10.4,12,Waxing Gibbous,Normal,2024,August,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723638600,8/14/2024,34.2,Sunny,8,714.3,121.6,6.1,0.4,8.4,16.9,1,1,10,14,0,0,29.56,1001,24.5,28.2,Waxing Gibbous,Normal,2024,August,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723724100,8/15/2024,34.3,Sunny,8,290.4,108.7,1.3,0.4,13.1,31.2,2,1,10,13,0,0,29.54,1000,33.5,38.5,Waxing Gibbous,Normal,2024,August,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723810500,8/16/2024,33.6,Sunny,8,447.3,117.3,2.2,0.5,16.4,40.5,2,2,10,16,0,0,29.5,999,16.6,19,Waxing Gibbous,Normal,2024,August,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723896900,8/17/2024,30.2,Sunny,8,614.2,100.1,2.5,0.2,9.7,20.1,1,1,10,35,0,0,29.61,1003,22.3,25.7,Waxing Gibbous,Normal,2024,August,3,Saturday
+Albania,Tirana,41.33,19.82,Europe/Tirane,1723896000,8/17/2024,36.1,Sunny,9,250.3,115.9,4,1.6,16.4,17.8,2,2,10,42,0,0,29.83,1010,11.2,22,Waxing Gibbous,Normal,2024,August,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1723982400,8/18/2024,32.5,Sunny,8,337.1,113,1.2,0.3,12.4,35.7,2,1,10,20,0,0,29.57,1001,22,25.3,Waxing Gibbous,Normal,2024,August,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724070600,8/19/2024,29.8,Sunny,7,801.1,117.3,7,0.4,8.9,25.3,1,1,10,16,0,0,29.55,1001,27,31.1,Full Moon,Normal,2024,August,3,Monday
+Azerbaijan,Baku,40.4,49.88,Asia/Baku,1724069700,8/19/2024,31.2,Sunny,7,212,108.7,2.8,0.8,6.3,15.8,1,1,10,36,0,0,29.85,1011,22,24.9,Full Moon,Normal,2024,August,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724156100,8/20/2024,28.8,Thundery outbreaks in nearby,6,680.9,121.6,2.5,0.3,10.6,20.2,1,1,9,36,0,0.02,29.58,1002,23.8,27.3,Waning Gibbous,Normal,2024,August,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724242500,8/21/2024,28,Sunny,7,1709,133,10.4,0.5,12.5,21.9,2,1,10,29,0,0,29.63,1003,31.3,36,Waning Gibbous,Normal,2024,August,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724328000,8/22/2024,24.3,Patchy light rain,5,474,110.2,1.5,0.2,11.9,33.8,1,1,9,33,0.03,0.83,29.7,1006,37.4,43.1,Waning Gibbous,Normal,2024,August,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724415300,8/23/2024,28.7,Sunny,7,474,130.2,2,0.2,12.5,41.5,2,1,10,18,0,0,29.66,1004,7.2,8.3,Waning Gibbous,Normal,2024,August,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724500800,8/24/2024,30,Sunny,8,367.2,121.6,1.3,0.2,8.5,24.2,1,1,10,23,0,0,29.62,1003,13.7,15.7,Waning Gibbous,Normal,2024,August,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724587200,8/25/2024,31.1,Sunny,8,303.8,105.9,1,0.2,6.7,18.9,1,1,10,10,0,0,29.58,1002,13.7,15.7,Waning Gibbous,Normal,2024,August,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724674500,8/26/2024,30.8,Sunny,8,367.2,124.5,1.5,0.2,6.1,15.6,1,1,10,10,0,0,29.58,1002,12.2,14.1,Last Quarter,Normal,2024,August,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724760900,8/27/2024,28.7,Sunny,7,527.4,120.2,2.1,0.3,9.7,18.6,1,1,10,29,0,0,29.66,1004,22.7,26.1,Waning Crescent,Normal,2024,August,3,Tuesday
+Saint Lucia,Castries,14,-61,America/St_Lucia,1724761800,8/27/2024,30.2,Partly Cloudy,7,168.6,37.2,0.1,0.1,1.1,3.3,1,1,10,79,0,0,29.97,1015,11.2,26.6,Waning Crescent,Normal,2024,August,3,Tuesday
+Algeria,Algiers,36.76,3.05,Africa/Algiers,1724848200,8/28/2024,32,Partly Cloudy,7,247,133,5.4,2.6,7.3,19,1,1,10,52,0,0,29.94,1014,20.2,25.3,Waning Crescent,Normal,2024,August,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1724932800,8/29/2024,27.6,Sunny,7,587.5,121.6,2.6,0.3,10,20.9,1,1,10,28,0,0,29.6,1002,18,20.7,Waning Crescent,Normal,2024,August,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725020100,8/30/2024,22.5,Patchy light drizzle,5,660.9,111.6,2.8,0.2,8.6,11.7,1,1,5,55,0.01,0.3,29.82,1010,14,16.2,Waning Crescent,Normal,2024,August,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725105600,8/31/2024,28,Partly Cloudy,7,460.6,90.1,1.5,0.1,3.9,4.9,1,1,10,32,0,0,29.71,1006,9,10.4,Waning Crescent,Normal,2024,August,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725192000,9/1/2024,28.9,Partly Cloudy,7,417.2,95.8,1.4,0.1,8.8,17.5,1,1,10,29,0,0,29.67,1005,5.8,6.6,Waning Crescent,Normal,2024,September,3,Sunday
+Albania,Tirana,41.33,19.82,Europe/Tirane,1725191100,9/1/2024,36.2,Sunny,8,237,100.1,0.9,0.5,2.7,3.4,1,1,10,24,0,0,29.83,1010,3.6,18.2,Waning Crescent,Normal,2024,September,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725279300,9/2/2024,29.9,Sunny,7,357.2,101.6,1.4,0.2,8.9,22.7,1,1,10,13,0,0,29.63,1004,26.3,30.2,New Moon,Normal,2024,September,3,Monday
+Bahrain,Manama,26.24,50.58,Asia/Bahrain,1725278400,9/2/2024,39,Sunny,8,297.1,240.3,4.8,44.8,56,150.8,7,3,10,26,0,0,29.59,1002,15.1,24.8,New Moon,High Risk,2024,September,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725365700,9/3/2024,27.3,Sunny,7,447.3,140.2,2,0.3,7.5,16.7,1,1,10,22,0,0,29.73,1007,15.5,17.8,Waxing Crescent,Normal,2024,September,3,Tuesday
+Turkey,Yaren,39.55,27.62,Europe/Istanbul,1725366600,9/3/2024,31.3,Partly Cloudy,8,263.7,98.7,0.5,0.9,3.1,3.8,1,1,10,41,0,0,29.91,1013,15.1,25.3,Waxing Crescent,Normal,2024,September,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725451200,9/4/2024,28.8,Sunny,7,600.8,148.8,2.1,0.2,8.1,13.8,1,1,10,6,0,0,29.62,1003,5.8,6.6,Waxing Crescent,Normal,2024,September,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725537600,9/5/2024,29.2,Sunny,7,172,158,1.1,6.7,5.9,12.4,1,1,10,5,0,0,29.57,1001,9,10.4,Waxing Crescent,Normal,2024,September,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725624900,9/6/2024,29.2,Sunny,7,362.6,163,1.665,17.76,19.61,34.78,2,2,10,7,0,0,29.63,1003,5.4,6.2,Waxing Crescent,Normal,2024,September,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725710400,9/7/2024,28.2,Sunny,7,290.45,144,1.11,10.175,13.875,31.08,2,1,10,10,0,0,29.7,1006,31,35.6,Waxing Crescent,Normal,2024,September,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725797700,9/8/2024,28,Sunny,7,303.4,157,1.85,11.84,14.43,38.85,2,1,10,8,0,0,29.71,1006,6.8,7.9,Waxing Crescent,Normal,2024,September,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725885000,9/9/2024,24.6,Sunny,6,301.55,146,1.85,10.36,10.545,25.9,1,1,10,13,0,0,29.68,1005,20.2,23.2,Waxing Crescent,Normal,2024,September,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1725971400,9/10/2024,26.1,Sunny,7,329.3,156,2.405,13.505,12.21,28.12,2,1,10,11,0,0,29.63,1003,9.7,11.2,Waxing Crescent,Normal,2024,September,3,Tuesday
+Tonga,Nuku`Aloia,-21.13,-175.2,Pacific/Tongatapu,1725972300,9/11/2024,23.2,Partly Cloudy,1,177.6,70,0,0.185,22.755,42.92,2,2,10,94,0,0.09,30.06,1018,16.9,44.6,Waxing Crescent,Normal,2024,September,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726056000,9/11/2024,28.3,Sunny,7,307.1,151,2.22,12.765,12.395,27.01,2,1,10,7,0,0,29.64,1004,9,10.4,First Quarter,Normal,2024,September,3,Wednesday
+Guyana,Georgetown,6.8,-58.17,America/Guyana,1726056900,9/11/2024,28.1,Patchy rain nearby,6,425.5,85,1.85,3.515,21.09,34.225,2,2,10,83,0,0.06,29.87,1012,10.8,14.8,First Quarter,Normal,2024,September,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726143300,9/12/2024,29.6,Sunny,7,318.2,148,2.405,14.8,12.025,21.645,2,1,10,4,0,0,29.54,1000,10.8,12.4,Waxing Gibbous,Normal,2024,September,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726230600,9/13/2024,26.9,Sunny,7,353.35,149,1.85,13.135,16.835,29.23,2,2,10,13,0,0,29.52,1000,13,14.9,Waxing Gibbous,Normal,2024,September,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726317000,9/14/2024,24.5,Sunny,6,462.5,139,1.665,6.845,45.14,84.73,5,3,10,22,0,0,29.57,1001,9.7,11.2,Waxing Gibbous,High Risk,2024,September,3,Saturday
+Austria,Vienna,48.2,16.37,Europe/Vienna,1726316100,9/14/2024,9.1,Patchy light rain,2,329.3,54,6.475,0.185,2.035,2.035,1,1,10,87,0.13,3.33,29.8,1009,46.1,63.4,Waxing Gibbous,Normal,2024,September,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726401600,9/15/2024,26.2,Sunny,7,401.45,144,1.48,15.355,38.48,80.845,4,2,10,18,0,0,29.61,1003,11.2,12.9,Waxing Gibbous,High Risk,2024,September,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726484400,9/16/2024,25.8,Patchy light drizzle,6,334.85,139,2.035,20.535,31.265,61.605,3,2,5,24,0.02,0.4,29.68,1005,23.4,26.9,Waxing Gibbous,Normal,2024,September,3,Monday
+Morocco,Rabat,34.03,-6.84,Africa/Casablanca,1726485300,9/16/2024,27,Sunny,6,240.5,81,10.175,18.315,30.71,72.89,3,2,5,66,0,0,29.88,1012,18.4,23.3,Waxing Gibbous,Normal,2024,September,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726570800,9/17/2024,26.2,Partly Cloudy,7,362.6,146,1.665,19.24,36.63,74.74,4,2,10,19,0,0,29.73,1007,14.4,16.6,Waxing Gibbous,High Risk,2024,September,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726656300,9/18/2024,27.6,Sunny,7,323.75,140,2.22,25.345,29.785,58.645,3,2,10,17,0,0,29.73,1007,10.1,11.6,Full Moon,Normal,2024,September,3,Wednesday
+Albania,Tirana,41.33,19.82,Europe/Tirane,1726655400,9/18/2024,26.4,Partly Cloudy,5,305.25,69,10.36,4.255,7.03,7.955,1,1,10,42,0,0.09,29.97,1015,5.4,6.3,Full Moon,Normal,2024,September,3,Wednesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726742700,9/19/2024,28.6,Sunny,7,301.55,136,1.85,20.535,21.83,41.255,2,2,10,15,0,0,29.77,1008,12.6,14.5,Waning Gibbous,Normal,2024,September,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726829100,9/20/2024,30.5,Sunny,8,305.25,136,2.22,15.91,17.945,38.295,2,2,10,9,0,0,29.73,1007,10.1,11.6,Waning Gibbous,Normal,2024,September,3,Friday
+Samoa,Apia,-13.83,-171.73,Pacific/Apia,1726830000,9/21/2024,24.2,Partly Cloudy,1,170.2,16,0,0.37,12.395,23.125,2,1,10,94,0.01,0.18,29.91,1013,27.4,34.8,Waning Gibbous,Normal,2024,September,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1726915500,9/21/2024,31,Sunny,8,290.45,142,2.22,16.095,25.53,54.39,3,2,10,9,0,0,29.74,1007,7.9,9.1,Waning Gibbous,Normal,2024,September,3,Saturday
+Nigeria,Abuja,9.18,7.18,Africa/Lagos,1726916400,9/21/2024,27.3,Partly Cloudy,5,636.4,81,4.995,1.665,43.29,76.22,5,3,10,84,0,0.04,29.91,1013,6.1,7.4,Waning Gibbous,High Risk,2024,September,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727001000,9/22/2024,32.3,Sunny,8,314.5,147,2.59,20.72,20.35,41.07,2,2,10,7,0,0,29.69,1005,6.5,7.5,Waning Gibbous,Normal,2024,September,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727084700,9/23/2024,32.3,Sunny,8,401.45,130,4.44,15.355,18.315,35.335,2,2,10,6,0,0,29.7,1006,6.1,7.1,Waning Gibbous,Normal,2024,September,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727171100,9/24/2024,32.1,Sunny,8,394.05,118,4.625,16.095,14.985,27.935,2,1,10,6,0,0,29.67,1005,7.2,8.3,Last Quarter,Normal,2024,September,3,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727256600,9/25/2024,29.9,Sunny,7,558.7,145,4.44,18.315,26.64,42.92,3,2,10,14,0,0,29.67,1005,9.4,10.8,Waning Crescent,Normal,2024,September,3,Wednesday
+Algeria,Algiers,36.76,3.05,Africa/Algiers,1727343000,9/26/2024,28,Sunny,7,418.1,58,80.29,32.375,20.905,28.675,2,2,10,40,0,0,30,1016,3.6,10.8,Waning Crescent,Normal,2024,September,3,Thursday
+Oman,Muscat,23.61,58.59,Asia/Muscat,1727343900,9/26/2024,33.2,Sunny,8,234.95,39,18.5,17.76,25.9,105.265,3,2,10,67,0,0,29.56,1001,14.4,16.6,Waning Crescent,Normal,2024,September,3,Thursday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727431200,9/27/2024,28,Sunny,7,368.15,122,3.7,21.09,27.38,74.925,3,2,10,16,0,0,29.59,1002,15.1,17.4,Waning Crescent,Normal,2024,September,3,Friday
+Argentina,Buenos Aires,-34.59,-58.67,America/Argentina/Buenos_Aires,1727430300,9/27/2024,4.1,Sunny,1,333,44,18.5,7.585,14.615,23.125,2,1,10,93,0,0,30.18,1022,7.2,13.4,Waning Crescent,Normal,2024,September,3,Friday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727517600,9/28/2024,26.1,Sunny,7,371.85,114,3.885,15.725,15.725,29.415,2,2,10,18,0,0,29.71,1006,12.2,14.1,Waning Crescent,Normal,2024,September,3,Saturday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727602200,9/29/2024,25.7,Patchy rain nearby,6,438.45,123,5.18,26.825,23.495,44.77,2,2,10,25,0,0.02,29.8,1009,14,16.2,Waning Crescent,Normal,2024,September,3,Sunday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727688600,9/30/2024,26.3,Patchy rain nearby,6,497.65,113,4.255,7.215,51.615,118.955,6,3,10,21,0,0.01,29.8,1009,20.2,23.2,Waning Crescent,High Risk,2024,September,3,Monday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727775900,10/1/2024,26.1,Sunny,7,338.55,114,2.405,5.365,27.01,52.355,3,2,10,14,0,0,29.72,1006,6.8,7.9,Waning Crescent,Normal,2024,October,4,Tuesday
+Azerbaijan,Baku,40.4,49.88,Asia/Baku,1727776800,10/1/2024,24.2,Partly Cloudy,6,271.95,92,3.885,1.295,28.305,78.995,3,2,10,54,0,0,29.77,1008,21.6,25.9,Waning Crescent,Normal,2024,October,4,Tuesday
+Afghanistan,Kabul,34.52,69.18,Asia/Kabul,1727861400,10/2/2024,26.3,Sunny,7,320.05,121,2.775,9.25,18.5,36.63,2,2,10,11,0,0,29.76,1008,5.8,6.6,New Moon,Normal,2024,October,4,Wednesday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1727947800,10/3/2024,26.8,Sunny,7,320.05,122,3.515,13.69,18.315,36.63,2,2,10,12,0,0,29.7,1006,6.8,7.9,Waxing Crescent,Normal,2024,October,4,Thursday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1728035100,10/4/2024,25.7,Sunny,7,342.25,119,4.255,16.65,16.465,49.21,2,2,10,11,0,0,29.74,1007,7.9,9.1,Waxing Crescent,Normal,2024,October,4,Friday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1728120600,10/5/2024,25.5,Sunny,7,395.9,125,4.81,25.53,17.575,37.555,2,2,10,16,0,0,29.75,1008,19.4,22.4,Waxing Crescent,Normal,2024,October,4,Saturday
+Poland,Warsaw,52.25,21,Europe/Warsaw,1728121500,10/5/2024,11.2,Partly Cloudy,3,353.35,43,11.47,8.51,13.135,14.985,2,1,10,71,0,0.02,30.03,1017,14.8,19.4,Waxing Crescent,Normal,2024,October,4,Saturday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1728206100,10/6/2024,24.4,Sunny,6,695.6,104,10.545,16.65,28.675,54.02,3,2,10,20,0,0,29.88,1012,8.6,9.9,Waxing Crescent,Normal,2024,October,4,Sunday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1728294300,10/7/2024,14,Moderate rain at times,3,440.3,116,3.7,17.945,44.215,100.64,5,3,8,69,0.12,3.11,30.12,1020,12.2,15,Waxing Crescent,High Risk,2024,October,4,Monday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1728380700,10/8/2024,19,Patchy rain nearby,4,349.65,114,3.7,13.505,29.6,68.265,3,2,10,36,0,0.02,30.01,1016,10.4,12,Waxing Crescent,Normal,2024,October,4,Tuesday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1728467100,10/9/2024,20.2,Sunny,3,375.55,109,4.255,13.32,13.875,24.235,2,1,10,29,0,0,29.92,1013,5.8,6.6,Waxing Crescent,Normal,2024,October,4,Wednesday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1728553500,10/10/2024,21.5,Sunny,3,477.3,134,4.07,26.27,27.195,46.805,3,2,10,24,0,0,29.86,1011,4.7,5.4,First Quarter,Normal,2024,October,4,Thursday
+Afghanistan,Kabul,34.5167,69.1833,Asia/Kabul,1728639900,10/11/2024,22.9,Sunny,3,445.85,129,4.255,25.53,27.935,46.805,3,2,10,18,0,0,29.85,1011,4.3,5,Waxing Gibbous,Normal,2024,October,4,Friday
